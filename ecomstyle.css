@@ -1,0 +1,35 @@
+#whyus{
+    border: 2px solid red;
+    height: 400px;
+
+}
+#whyuscontent{
+    margin-top: 10%;
+    text-align: center;
+}
+#whyuscontent>h1{
+    font-size: 90px;
+    background-color: burlywood;
+    color: coral;
+}
+#securepayment{
+    background-color: aqua;
+}
+#primiumquality{
+    background-color: blueviolet;
+}
+#freeshipping{
+    background-color: brown;
+}
+.servisesrow{
+    background-color:gray;
+}
+.footerrow{
+    background-color: cornflowerblue;
+    height: 250px;
+}
+#copyright{
+    text-align: center;
+    background-color: gray;
+    color: chartreuse;
+}
