@@ -19,7 +19,7 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
 </head>
 
-<body>
+<body >
     <header>
         <div class="navigaion">
             <nav class="navbar navbar-expand-lg bg-light">
@@ -67,6 +67,7 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#">New Arrival</a>
                             </li>
+                            <button class="btn btn-outline-info" onclick="changemode()">Dark/light</button>
                     </div>
                 </div>
             </nav>
@@ -196,6 +197,12 @@
         </div>
     </footer>
 
+    <script>
+        const changemode=()=>{
+            let mybody = document.body;
+            mybody.classList.toggle('darkmode')
+        }
+    </script>
 </body>
 
 </html>
