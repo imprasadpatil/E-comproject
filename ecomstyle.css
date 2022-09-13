@@ -2,6 +2,25 @@ body{
     background-color: white;
     color: black;
 }
+#cupon {
+    height: 400px;
+    width: 700px;
+    background-color: rgb(255, 203, 196);
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 20px;
+    z-index: 10;
+}
+#closebtn{
+    margin-left: 95%;
+}
+#cuponmessage{
+    border: 4px black dashed;
+    margin-left: 10%;
+    margin-top: 5%;
+    height: 80%;
+    width: 80%;
+}
 .darkmode{
     background-color: black;
     color: white;
