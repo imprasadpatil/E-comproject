@@ -1,0 +1,11 @@
+[
+    {
+        "gender_cate_id" : "1",
+        "gender_cate_name" : "men"
+    },
+    {
+        "gender_cate_id" : "2",
+        "gender_cate_name" : "women"
+    }
+    
+]

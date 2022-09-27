@@ -1,0 +1,36 @@
+[
+    {
+        "product_type_id" : "1",
+        "category_name" : "shirt",
+        "gender_cate_id":"1"
+    },
+    {
+        "product_type_id" : "2",
+        "category_name" : "t-shirt",
+        "gender_cate_id":"1"
+    },
+    {
+        "product_type_id" : "3",
+        "category_name" : "hoddies",
+        "gender_cate_id":"1"
+    },
+    {
+        "product_type_id" : "4",
+        "category_name" : "shirt",
+        "gender_cate_id":"2"
+        
+    },
+    {
+        "product_type_id" : "5",
+        "category_name" : "kurties",
+        "gender_cate_id":"2"
+    },
+    {
+        "product_type_id" : "6",
+        "category_name" : "hoddies",
+        "gender_cate_id":"2"
+    }
+
+    
+    
+]

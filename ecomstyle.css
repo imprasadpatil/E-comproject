@@ -2,6 +2,30 @@ body{
     background-color: white;
     color: black;
 }
+#citywether{
+    height: 150px;
+    width: 150px;
+    background-color: beige;
+    position: absolute;
+    z-index: 10;
+    border-radius: 27%;
+    border: 2px solid black;
+    padding-inline: 1;
+    opacity: 75%;
+    margin-left: 85%;
+    
+}
+#citywether>p{
+    margin-left: 10px;
+    margin-top: 5px;
+}
+#cwbtn{
+    background-color: grey;
+    color: #000;
+    border-radius: 15%;
+    margin-left: 27px;
+    margin-top: 7px;
+}
 #cupon {
     height: 400px;
     width: 700px;

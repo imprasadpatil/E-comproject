@@ -1,0 +1,192 @@
+{
+    "city": {
+        "id": 1266285,
+        "name": "Kolhāpur",
+        "coord": {
+            "lon": 74.2433,
+            "lat": 16.705
+        },
+        "country": "IN",
+        "population": 516142,
+        "timezone": 19800
+    },
+    "cod": "200",
+    "message": 4.6756163,
+    "cnt": 5,
+    "list": [
+        {
+            "dt": 1663223400,
+            "sunrise": 1663203076,
+            "sunset": 1663247144,
+            "temp": {
+                "day": 25.27,
+                "min": 21.23,
+                "max": 25.28,
+                "night": 21.43,
+                "eve": 23.27,
+                "morn": 21.67
+            },
+            "feels_like": {
+                "day": 25.92,
+                "night": 22.03,
+                "eve": 23.95,
+                "morn": 22.29
+            },
+            "pressure": 1010,
+            "humidity": 79,
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "speed": 8.17,
+            "deg": 242,
+            "gust": 12.55,
+            "clouds": 100,
+            "pop": 0.8,
+            "rain": 0.84
+        },
+        {
+            "dt": 1663309800,
+            "sunrise": 1663289482,
+            "sunset": 1663333494,
+            "temp": {
+                "day": 22.35,
+                "min": 21.43,
+                "max": 23.37,
+                "night": 21.43,
+                "eve": 22.42,
+                "morn": 21.52
+            },
+            "feels_like": {
+                "day": 23.15,
+                "night": 22.16,
+                "eve": 23.09,
+                "morn": 22.13
+            },
+            "pressure": 1010,
+            "humidity": 96,
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "speed": 7.69,
+            "deg": 247,
+            "gust": 12.91,
+            "clouds": 100,
+            "pop": 0.91,
+            "rain": 0.69
+        },
+        {
+            "dt": 1663396200,
+            "sunrise": 1663375888,
+            "sunset": 1663419844,
+            "temp": {
+                "day": 25.89,
+                "min": 20.81,
+                "max": 25.89,
+                "night": 20.81,
+                "eve": 23.04,
+                "morn": 21.43
+            },
+            "feels_like": {
+                "day": 26.52,
+                "night": 21.48,
+                "eve": 23.72,
+                "morn": 22.14
+            },
+            "pressure": 1010,
+            "humidity": 76,
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "speed": 6.67,
+            "deg": 252,
+            "gust": 10.88,
+            "clouds": 98,
+            "pop": 0.91,
+            "rain": 1.02
+        },
+        {
+            "dt": 1663482600,
+            "sunrise": 1663462294,
+            "sunset": 1663506194,
+            "temp": {
+                "day": 26.54,
+                "min": 20.48,
+                "max": 27.2,
+                "night": 20.57,
+                "eve": 24.57,
+                "morn": 20.82
+            },
+            "feels_like": {
+                "day": 26.54,
+                "night": 21.22,
+                "eve": 25.22,
+                "morn": 21.49
+            },
+            "pressure": 1011,
+            "humidity": 72,
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "light rain",
+                    "icon": "10d"
+                }
+            ],
+            "speed": 5.11,
+            "deg": 264,
+            "gust": 6.47,
+            "clouds": 95,
+            "pop": 1,
+            "rain": 1.78
+        },
+        {
+            "dt": 1663569000,
+            "sunrise": 1663548699,
+            "sunset": 1663592544,
+            "temp": {
+                "day": 25.83,
+                "min": 19.26,
+                "max": 27.02,
+                "night": 19.28,
+                "eve": 24.7,
+                "morn": 19.26
+            },
+            "feels_like": {
+                "day": 26.11,
+                "night": 19.74,
+                "eve": 25.11,
+                "morn": 19.77
+            },
+            "pressure": 1011,
+            "humidity": 63,
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04d"
+                }
+            ],
+            "speed": 5.1,
+            "deg": 283,
+            "gust": 6.79,
+            "clouds": 99,
+            "pop": 0
+        }
+    ]
+}

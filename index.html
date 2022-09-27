@@ -18,15 +18,15 @@
         integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
         crossorigin="anonymous"></script>
     <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" rel="stylesheet" />
 </head>
 
-<body >
+<body>
     <header>
         <div class="navigaion">
             <nav class="navbar navbar-expand-lg bg-light">
                 <div class="container-fluid">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false"
                         aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
@@ -70,22 +70,32 @@
                                 <a class="nav-link" href="#">New Arrival</a>
                             </li>
                             <button class="btn btn-outline-info" onclick="changemode()">Dark/light</button>
+                            <!-- <button class="btn btn-outline-warning" onclick="geoLocation()">Location</button> -->
                     </div>
                 </div>
             </nav>
         </div>
     </header>
-    
+
     <div id="cupon">
         <button id="closebtn" onclick="closecupon()">&times;</button>
         <div id="cuponmessage">
-            <h3>Get Extra Discount</h3>
-            <p>worth <h1>200</h1></p>
+            <h3>Get Extra Discount<i class="fa-thin fa-tree-city"></i>          </h3>
+            <p>worth
+            <h1>200</h1>
+            </p>
             <p>use code <button>EXTRA200</button></p>
         </div>
     </div>
 
-    <div class="carousel">
+    <div id="citywether">
+        
+        <p id="message"></p>
+        <p id="cityname"></p>
+        <p id="citytemp"></p>
+    </div>
+
+    <div id="carousel">
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -177,18 +187,18 @@
                 <h5 class="text-uppercase">Quick Links</h5>
 
                 <ul class="list-unstyled mb-0">
-                  <li>
-                    <a href="#!" class="text-dark">Privacy Policy</a>
-                  </li>
-                  <li>
-                    <a href="#!" class="text-dark">Cancellation and return policy</a>
-                  </li>
-                  <li>
-                    <a href="#!" class="text-dark">Terms of service</a>
-                  </li>
-                  <li>
-                    <a href="#!" class="text-dark">About us</a>
-                  </li>
+                    <li>
+                        <a href="#!" class="text-dark">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">Cancellation and return policy</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">Terms of service</a>
+                    </li>
+                    <li>
+                        <a href="#!" class="text-dark">About us</a>
+                    </li>
                 </ul>
                 <div>
                     <a href=""><i class="fa-solid fa-facebook"></i></a>
@@ -201,7 +211,7 @@
                 <a href=""><img src="./Assets/logo.png" alt=""></a>
                 <h2>Prasad-Patil</h2>
             </div>
-            
+
         </div>
         <div id="copyright">
             © 2020 Copyright:<a class="text-dark" href="#">Prasad-Patil</a>
@@ -209,11 +219,8 @@
     </footer>
 
     <script>
-        const changemode=()=>{
-            let mybody = document.body;
-            mybody.classList.toggle('darkmode')
-        }
-        window.onload=loadcupon()
+        window.onload = geolocation()
+        window.onload = loadcupon()
     </script>
 </body>
 
