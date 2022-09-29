@@ -1,0 +1,209 @@
+#navbrandlogo{
+    height: 50px;
+    border-radius: 50%;
+}
+#carausal{
+    height: 500px;
+    margin-top: 10px;
+}
+.carausalimg{
+    height: 500px;
+    width: 100%;
+}
+
+#cupon {
+    height: 300px;
+    width: 700px;
+    background-color: rgb(255, 203, 196);
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 20px;
+    z-index: 10;
+}
+#closebtn{
+    margin-left: 95%;
+}
+#cuponmessage{
+    border: 4px black dashed;
+    margin-left: 10%;
+    margin-top: 2%;
+    height: 80%;
+    width: 80%;
+}
+
+#citywether{
+    height: auto;
+    width: 270px;
+    background-color: gray;
+    position: absolute;
+    z-index: 10;
+    border: 5px solid black;
+    border-radius: 10%;
+    margin-left: 40%;
+    margin-top: 80;
+    display: none;
+    opacity: 80%;
+    padding: 10px;
+  
+}
+#wheatherclosebtn{
+    margin-left: 90%;
+    background-color: rgb(244, 235, 235);
+    border-radius: 50%;
+}
+#citywethercontent{
+    border: 5px solid gold;
+    padding: 5px;
+    align-content: center;
+}
+
+#tagline{
+    height: 200px;
+    border: solid 10px rgb(227, 145, 145);
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 20px;
+}
+#tagline>h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+#mensection{
+    height: 400px;
+    width: 100%; 
+    border: solid 5px rgb(255, 92, 92);
+    margin-top: 10px;
+    background-image: url(./Assets/menscollection.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    text-align: center;
+}
+#mensection>button{
+    
+    margin-top: 17%; 
+    
+    
+}
+#womensection{
+    height: 400px;
+    width: 100%; 
+    border: solid 5px rgb(255, 92, 92);
+    margin-top: 10px;
+    background-image: url(./Assets/crwomencoll-1.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    text-align: center;
+}
+#womensection>button{
+    
+    margin-top: 17%; 
+    
+    
+}
+.newarrival{
+    margin-top: 10px;
+    height: auto;
+    border: solid 5px rgb(255, 92, 92);
+    text-align: center;
+
+}
+#newarrh1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.newarrcard{
+    height: 400px;
+}
+.newarrcard>img{
+    height: 350px;
+    width: 85%;
+    border-radius: 5%;
+}
+.newarrcard>h1{
+    position: absolute;
+    z-index: 10;
+}
+.newarrcard>button{
+    text-align: center;
+    width: 80%;
+    
+}
+
+#whyus{
+    margin-top: 10px;
+    border: 5px solid  rgb(255, 92, 92);
+    height: 400px;
+
+}
+#whyuscontent{
+    margin-top: 10%;
+    text-align: center;
+}
+#whyuscontent>h1{
+    font-size: 90px;
+    background-color: burlywood;
+    color: coral;
+}
+#services{
+    border: 5px solid rgb(88, 130, 245);
+    margin-top: 10px;
+}
+#services>h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.servicecard{
+    height: 210px;
+    width: 100%;
+}
+.servicecircle{
+    border: 3px solid rgb(88, 130, 245);
+    border-radius: 50%;
+    height: 200px;
+    width: 400px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+.servicecontent{
+    margin-top: 20px;
+    padding: 45px;
+}
+
+footer{
+    margin-top: 10px;
+   height:  auto;
+border: 5px solid rgb(227, 145, 145);}
+
+.footercard{
+    height: 280px; 
+}
+#quicklinks{
+    text-align: center;
+    margin-top: 50px;
+}
+#socialcontent{
+    text-align: center;
+}
+#footerlogo{
+    border-radius: 50%;
+}
+
+#sociallinks{
+    margin-top: 20px;
+}
+.copyright{
+    height: 30px;
+    background-color: gray;
+    text-align: center;
+}
+/* Dark Mode */
+.darkmode{
+    background-color: black;
+    color: white;
+}
+.citywetherdark{
+    background-color: black;
+}

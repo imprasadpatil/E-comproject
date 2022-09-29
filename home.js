@@ -1,33 +1,20 @@
-
-//Light Dark Mode function
+//change to dark/light mode
 const changemode = () => {
     let mybody = document.body;
-    //let whratherdark = document.getElementById()
+    let whratherdark = document.getElementById(citywether)
     mybody.classList.toggle('darkmode')
-
+    whratherdark.className.toggle('citywetherdark')
 }
-
-//loadcupon function
-function loadcupon() {
-    document.getElementById('cupon').style.display = "block";
-    document.getElementById('carousel').style.opacity = "0.5";
-}
-
-//close cupon function
-const closecupon = () => {
-    document.getElementById('cupon').style.display = "none";
-    document.getElementById('carousel').style.opacity = "1";
-}
-// window.onload = loadcupon()
 
 //GeoLocation Function
-function geolocation() {
+function geolocation () {
     let errormsg = document.getElementById('message');
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(showPosition)
     } else {
         errormsg.innerText = "Geo Not Supported"
     }
+    document.getElementById('citywether').style.display = "block";
 }
 
 function showPosition(data) {
@@ -46,8 +33,24 @@ function showPosition(data) {
         .then((res) => res.json())
         // resolve the promise
         .then((data) => {
-            message.innerText = "City Wheather"
+            message.innerText = ""
             cityname.innerText = ` City - ${data.city.name}`
             citytemp.innerText = `Temp - ${data.list[0].temp.day} °C`
         })
+}
+
+function closewheather(){
+    document.getElementById('citywether').style.display = "none";
+}
+
+//loadcupon function
+function loadcupon() {
+    document.getElementById('cupon').style.display = "block";
+    document.getElementById('carousel').style.opacity = "0.5";
+}
+
+//close cupon function
+const closecupon = () => {
+    document.getElementById('cupon').style.display = "none";
+    document.getElementById('carousel').style.opacity = "1";
 }
