@@ -1,11 +1,11 @@
 [
     {
-        "gender_cate_id" : "1",
-        "gender_cate_name" : "men"
+        "gender_id" : 1,
+        "gender_name" : "men"
     },
     {
-        "gender_cate_id" : "2",
-        "gender_cate_name" : "women"
+        "gender_id" : 2,
+        "gender_name" : "women"
     }
     
 ]
