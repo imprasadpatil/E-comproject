@@ -16,5 +16,5 @@ https://myecommapi.herokuapp.com/producttype
 #product details with respect to product id
 https://myecommapi.herokuapp.com/product/detail/20
 
-
-//https://myecommapi.herokuapp.com/product
+//API_LINK
+//https://myecommapi.herokuapp.com
