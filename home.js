@@ -1,4 +1,4 @@
-//change to dark/light mode
+//change to dark/light mode.
 const changemode = () => {
     let mybody = document.body;
     let whratherdark = document.getElementById(citywether)
@@ -6,7 +6,7 @@ const changemode = () => {
     whratherdark.className.toggle('citywetherdark')
 }
 
-//GeoLocation Function
+//GeoLocation Function.
 function geolocation () {
     let errormsg = document.getElementById('message');
     if (navigator.geolocation) {
@@ -43,13 +43,13 @@ function closewheather(){
     document.getElementById('citywether').style.display = "none";
 }
 
-//loadcupon function
+//loadcupon function.
 function loadcupon() {
     document.getElementById('cupon').style.display = "block";
     document.getElementById('carousel').style.opacity = "0.5";
 }
 
-//close cupon function
+//close cupon function.
 const closecupon = () => {
     document.getElementById('cupon').style.display = "none";
     document.getElementById('carousel').style.opacity = "1";
