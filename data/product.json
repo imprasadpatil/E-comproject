@@ -4,21 +4,30 @@
         "product_name": "mens solid shirt",
         "gender_id": 1,
         "product_type_id": 1,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/9VP8mb7",
+            "https://ibb.co/v4G1QWV",
+            "https://ibb.co/rx7wQsb",
+            "https://ibb.co/VLq7nkz"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
-        "isnewarrival": true
+        "discription": "mens planen green coloure full slives shirt",
+        "isnewarrival": false
     },
     {
         "product_id": 2,
         "product_name": "mens solid shirt",
         "gender_id": 1,
         "product_type_id": 1,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/Y7vXsnS",
+            "https://ibb.co/ZgbdtFr",
+            "https://ibb.co/QD53Y2d"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Black coloure full slives shirt",
         "isnewarrival": true
     },
     {
@@ -26,7 +35,11 @@
         "product_name": "mens solid shirt",
         "gender_id": 1,
         "product_type_id": 1,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/tZ6K2ZC",
+            "https://ibb.co/tZ6K2ZC",
+            "https://ibb.co/r3trTdQ"
+        ],
         "new_price": 1500,
         "old_price": 2000,
         "discription": "mens plane coloure full slives shirt",
@@ -37,7 +50,11 @@
         "product_name": "mens solid shirt",
         "gender_id": 1,
         "product_type_id": 1,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/6BCgxRr",
+            "https://ibb.co/tJ97yQj",
+            "https://ibb.co/hgMK2rW"
+        ],
         "new_price": 1500,
         "old_price": 2000,
         "discription": "mens plane coloure full slives shirt",
@@ -48,10 +65,14 @@
         "product_name": "mens solid shirt",
         "gender_id": 1,
         "product_type_id": 1,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/sQpn49P",
+            "https://ibb.co/gR6Q5m9",
+            "https://ibb.co/LgGQVmM"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Pink coloure full slives shirt",
         "isnewarrival": true
     },
     {
@@ -59,10 +80,14 @@
         "product_name": "mens t-shirt",
         "gender_id": 1,
         "product_type_id": 2,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/18G2bDY",
+            "https://ibb.co/ZcHb0RK",
+            "https://ibb.co/pLzBMyw"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens Green coloure full slives Tshirt",
         "isnewarrival": true
     },
     {
@@ -70,10 +95,14 @@
         "product_name": "mens t-shirt",
         "gender_id": 1,
         "product_type_id": 2,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/tD1vLwY",
+            "https://ibb.co/WHMCBGq",
+            "https://ibb.co/Q66j2G8"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Black coloure full slives Tshirt",
         "isnewarrival": true
     },
     {
@@ -81,10 +110,14 @@
         "product_name": "mens t-shirt",
         "gender_id": 1,
         "product_type_id": 2,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            " https://ibb.co/2vVxT2S",
+            "https://ibb.co/Dz2RVVh",
+            "https://ibb.co/dtGH4d8"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Blue coloure full slives Tshirt",
         "isnewarrival": true
     },
     {
@@ -92,20 +125,28 @@
         "product_name": "mens t-shirt",
         "gender_id": 1,
         "product_type_id": 2,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/hct7yc3",
+            "https://ibb.co/rvPx4j7",
+            "https://ibb.co/566dXVT"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt"
+        "discription": "mens plane Maroon coloure full slives shirt"
     },
     {
         "product_id": 10,
         "product_name": "mens t-shirt",
         "gender_id": 1,
         "product_type_id": 2,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/Q6jcggR",
+            "https://ibb.co/YDQp1N8",
+            "https://ibb.co/bLX0x14"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Yellow coloure full slives shirt",
         "isnewarrival": true
     },
     {
@@ -113,10 +154,14 @@
         "product_name": "mens hoodies",
         "gender_id": 2,
         "product_type_id": 3,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/gm0h8ky",
+            "https://ibb.co/pdZsk5H",
+            "https://ibb.co/xq1wmtL"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane coloure peach Hoodies",
         "isnewarrival": true
     },
     {
@@ -124,10 +169,14 @@
         "product_name": "mens hoodies",
         "gender_id": 2,
         "product_type_id": 3,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/BfLJSX5",
+            "https://ibb.co/TTVfQBn",
+            "https://ibb.co/9r1hGPP"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Brown coloure Hoodies",
         "isnewarrival": true
     },
     {
@@ -135,10 +184,14 @@
         "product_name": "mens hoodies",
         "gender_id": 2,
         "product_type_id": 3,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/WG2CPkB",
+            "https://ibb.co/ZmnbfF7",
+            "https://ibb.co/rsgfq8z"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Blue coloure Hoodies",
         "isnewarrival": true
     },
     {
@@ -146,10 +199,14 @@
         "product_name": "mens hoodies",
         "gender_id": 2,
         "product_type_id": 3,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/qxMGxrG",
+            "https://ibb.co/F4jjMD5",
+            "https://ibb.co/KKLdLfP"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Black coloure Hoodiest",
         "isnewarrival": true
     },
     {
@@ -157,10 +214,14 @@
         "product_name": "mens hoodies",
         "gender_id": 2,
         "product_type_id": 3,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/kMpTtyk",
+            "https://ibb.co/rF3F8Pb",
+            "https://ibb.co/L09gy10"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "mens plane Green coloure Hoodies",
         "isnewarrival": true
     },
     {
@@ -168,10 +229,14 @@
         "product_name": "womens solid shirt",
         "gender_id": 2,
         "product_type_id": 4,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/4Fkbh9b",
+            "https://ibb.co/YR0xJsM",
+            "https://ibb.co/Hr5g2Mm"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens checked Red coloure full slives shirt",
         "isnewarrival": true
     },
     {
@@ -179,10 +244,14 @@
         "product_name": "womens solid shirt",
         "gender_id": 2,
         "product_type_id": 4,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/PQmCm9S",
+            "https://ibb.co/2WxZ94m",
+            "https://ibb.co/GsLpf1V"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "Womens checked Blue coloure full slives shirt",
         "isnewarrival": true
     },
     {
@@ -190,10 +259,14 @@
         "product_name": "womens solid shirt",
         "gender_id": 2,
         "product_type_id": 4,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/R4QyDDG",
+            "https://ibb.co/wSxp7Sq",
+            "https://ibb.co/F7JrR5j"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens checked pink coloure full slives shirt",
         "isnewarrival": true
     },
     {
@@ -201,10 +274,14 @@
         "product_name": "womens solid shirt",
         "gender_id": 2,
         "product_type_id": 4,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/37Z7hjv",
+            "https://ibb.co/L5jydLG",
+            "https://ibb.co/KFRMkWP"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens plane Black coloure full slives shirt",
         "isnewarrival": true
     },
     {
@@ -212,10 +289,14 @@
         "product_name": "womens solid shirt",
         "gender_id": 2,
         "product_type_id": 4,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/1MXY42H",
+            "https://ibb.co/TwyM0wJ",
+            "https://ibb.co/Zz4zGvP"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens plane White coloure full slives shirt",
         "isnewarrival": false
     },
     {
@@ -223,10 +304,14 @@
         "product_name": "womens t-shirt",
         "gender_id": 2,
         "product_type_id": 5,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/7jkkZQF",
+            "https://ibb.co/ZLNDGjH",
+            "https://ibb.co/ZLNDGjH"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "Womens green colour T-shirt",
         "isnewarrival": true
     },
     {
@@ -234,10 +319,14 @@
         "product_name": "womens t-shirt",
         "gender_id": 2,
         "product_type_id": 5,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/cyC7Bjs",
+            "https://ibb.co/Lxb53X6",
+            "https://ibb.co/KVMxYhz"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "Womens Mustered colour T-shirt",
         "isnewarrival": false
     },
     {
@@ -245,10 +334,14 @@
         "product_name": "womens t-shirt",
         "gender_id": 2,
         "product_type_id": 5,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/YNn38zs",
+            "https://ibb.co/xC1hYph",
+            "https://ibb.co/CHTH846"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "Womens Pink Colour T-shirt",
         "isnewarrival": false
     },
     {
@@ -256,10 +349,14 @@
         "product_name": "womens t-shirt",
         "gender_id": 2,
         "product_type_id": 5,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/V9H4LW7",
+            "https://ibb.co/4dTmx08",
+            "https://ibb.co/tXx78Hk"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "Womens light pink stapped T-shirt",
         "isnewarrival": false
     },
     {
@@ -267,10 +364,14 @@
         "product_name": "womens t-shirt",
         "gender_id": 2,
         "product_type_id": 5,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/s3ZsMyy",
+            "https://ibb.co/qYr0F7t",
+            "https://ibb.co/dpKNMSK "
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "Womens Black T-shirt",
         "isnewarrival": false
     },
     {
@@ -278,10 +379,14 @@
         "product_name": "womens kurties",
         "gender_id": 2,
         "product_type_id": 6,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/pLSJVRL",
+            "https://ibb.co/cvFbCbD",
+            "https://ibb.co/dkp4T4y"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens gold coluored kurtie",
         "isnewarrival": false
     },
     {
@@ -289,10 +394,14 @@
         "product_name": "womens kurties",
         "gender_id": 2,
         "product_type_id": 6,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/h8pH7bk",
+            "https://ibb.co/09SG8tp",
+            "https://ibb.co/yFBzdrg"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens green coluored kurtie",
         "isnewarrival": false
     },
     {
@@ -300,10 +409,14 @@
         "product_name": "womens kurties",
         "gender_id": 2,
         "product_type_id": 6,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/rMhmDp0",
+            "https://ibb.co/y5Mt2M4",
+            "https://ibb.co/y5Mt2M4"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens blue coluored kurtie",
         "isnewarrival": false
     },
     {
@@ -311,10 +424,14 @@
         "product_name": "womens kurties",
         "gender_id": 2,
         "product_type_id": 6,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            "https://ibb.co/Sfqg0YK",
+            "https://ibb.co/F63sZ0t",
+            "https://ibb.co/Y3C8bG6"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens pink coluored kurtiem",
         "isnewarrival": false
     },
     {
@@ -322,10 +439,14 @@
         "product_name": "womens kurties",
         "gender_id": 2,
         "product_type_id": 6,
-        "Product_thumbnail": [],
+        "Product_thumbnail": [
+            " https://ibb.co/b64YWkT",
+            "https://ibb.co/1mv9JKt",
+            "https://ibb.co/xz8tPDk"
+        ],
         "new_price": 1500,
         "old_price": 2000,
-        "discription": "mens plane coloure full slives shirt",
+        "discription": "womens red coluored kurtie",
         "isnewarrival": false
     }
 ]
