@@ -1,0 +1,28 @@
+
+footer{
+    margin-top: 10px;
+   height:  auto;
+border: 5px solid rgb(227, 145, 145);}
+
+.footercard{
+    height: 280px; 
+}
+#quicklinks{
+    text-align: center;
+    margin-top: 50px;
+}
+#socialcontent{
+    text-align: center;
+}
+#footerlogo{
+    border-radius: 50%;
+}
+
+#sociallinks{
+    margin-top: 20px;
+}
+.copyright{
+    height: 30px;
+    background-color: gray;
+    text-align: center;
+}
